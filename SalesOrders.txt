@@ -1,0 +1,44 @@
+11/3/20#                           East#John#5616998574#PenciL#1995#1.89
+1/6/19#                           East#Jones#5616998572#PenciL#95#1.99 
+1/23/19#                           Central#Kivell#5616998534#BindeR#50#19.99 
+2/9/19#                           Central#Jardine#5616998574#PenciL#36#4.99 
+2/26/19#                           Central#Gill#5616998570#PeN#27#19.99 
+3/15/19#                           West#Sorvino#9546998574#PenciL#56#2.99 
+4/1/19#                           East#Jones#9546898574#BindeR#60#4.99 
+4/18/19#                           Central#Andrews#5616998374#PenciL#75#1.99 
+5/5/19#                           Central#Jardine#9546998579#PenciL#90#4.99 
+5/22/19#                           West#Thompson#9546998578#PenciL#32#1.99 
+6/8/19#                           East#Jones#3056998574#BindeR#60#8.99 
+6/25/19#                           Central#Morgan#3056998574#PenciL#90#4.99 
+7/12/19#                           East#Howard#3056998504#BindeR#29#1.99 
+7/29/19#                           East#Parent#3056998514#BindeR#81#19.99 
+8/15/19#                           East#Jones#3056998524#PenciL#35#4.99 
+9/1/19#                           Central#Smith#3056991574#Desk#2#125.00 
+9/18/19#                           East#Jones#3051998574#Pen SeT#16#15.99 
+10/5/19#                           Central#Morgan#3052998574#BindeR#28#8.99 
+10/22/19#                           East#Jones#3056998074#PeN#64#8.99 
+11/8/19#                           East#Parent#3056998524#PeN#15#19.99 
+11/25/19#                           Central#Kivell#9540998574#Pen SeT#96#4.99 
+12/12/19#                           Central#Smith#5616332158#PenciL#67#1.29 
+12/29/19#                           East#Parent#3058598574#Pen SeT#74#15.99 
+1/15/20#                           Central#Gill#3056922574#BindeR#46#8.99 
+2/1/20#                           Central#Smith#3056933374#BindeR#87#15.00 
+2/18/20#                           East#Jones#3056548574#BindeR#4#4.99 
+3/7/20#                           West#Sorvino#3056998541#BindeR#7#19.99 
+3/24/20#                           Central#Jardine#3055448574#Pen SeT#50#4.99 
+4/10/20#                           Central#Andrews#3056998523#PenciL#66#1.99 
+4/27/20#                           East#Howard#3056994444#PeN#96#4.99 
+5/14/20#                           Central#Gill#3056977788#PenciL#53#1.29 
+5/31/20#                           Central#Gill#3057778874#BindeR#80#8.99 
+6/17/20#                           Central#Kivell#3056998444#Desk#5#125.00 
+7/4/20#                           East#Jones#3056998894#Pen SeT#62#4.99 
+7/21/20#                           Central#Morgan#5617896574#Pen SeT#55#12.49 
+8/7/20#                           Central#Kivell#3056933358#Pen SeT#42#23.95 
+8/24/20#                           West#Sorvino#3056945781#Desk#3#275.00 
+9/10/20#                           Central#Gill#9547784574#PenciL#7#1.29 
+9/27/20#                           West#Sorvino#3056912358#PeN#76#1.99 
+10/14/20#                           West#Thompson#5619668235#BindeR#57#19.99 
+10/31/20#                           Central#Andrews#5618523612#PenciL#14#1.29 
+11/17/20#                           Central#Jardine#5613223265#BindeR#11#4.99 
+12/4/20#                           Central#Jardine#5613887841#BindeR#94#19.99 
+12/21/20#                           Central#Andrews#5616332472#BindeR#28#4.99 
